@@ -1,0 +1,30 @@
+p
+{
+/*background-color: green;*/
+size: 40px;
+}
+/*input {
+
+background: #B20000;
+border: 1px solid #B20000;
+}*/
+
+input {
+
+padding: 4px 3px;
+    color: #9F9F9F;
+}
+
+/*correspond au contour du formulaire*/
+fieldset {
+background-color: #B20000;
+}
+
+p{ font-family: Arial,sans-serif;
+ font-size: 1.6em; width: 200px;
+ height: 43px;
+ padding-top: 7px; /*permet le centrage vertical*/
+ text-align: center;
+ color: #000;
+ background: #444;
+ }
